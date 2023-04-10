@@ -1,0 +1,25 @@
+/* Custom Cursor */
+
+.custom-cursor, .custom-cursor-dot {
+    position:fixed; z-index:999; top:0; left:0;
+    transform:translate(-50%, -50%);
+    pointer-events:none; opacity:0;
+
+}
+
+/* decorative */
+
+.custom-cursor {
+    width:30px;
+    height:30px;
+    border:1px solid #C60CB8;
+    border-radius:50%;
+
+}
+.custom-cursor-dot {
+    width:7px;
+    height:7px;
+    border-radius:50%;
+    background-color:#C60CB8;
+
+}

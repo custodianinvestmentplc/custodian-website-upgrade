@@ -1,0 +1,43 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 23/04/2020 17:41
+  	*/
+
+@font-face {
+  font-family: "appilo-v6";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff2") format("woff2"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "appilo-v6";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="appilo-v6-"]:before, [class*=" appilo-v6-"]:before,
+[class^="appilo-v6-"]:after, [class*=" appilo-v6-"]:after {
+  font-family: appilo-v6;
+  font-style: normal;
+}
+
+.appilo-v6-chart:before { content: "\f100"; }
+.appilo-v6-box:before { content: "\f101"; }
+.appilo-v6-compass:before { content: "\f102"; }
+.appilo-v6-intersect:before { content: "\f103"; }
+.appilo-v6-magic-wand:before { content: "\f104"; }
+.appilo-v6-fabric:before { content: "\f105"; }
+.appilo-v6-hosting:before { content: "\f106"; }
+.appilo-v6-lamp:before { content: "\f107"; }
+.appilo-v6-lamp-1:before { content: "\f108"; }
+.appilo-v6-box-1:before { content: "\f109"; }
+.appilo-v6-botanic:before { content: "\f10a"; }
+.appilo-v6-right-arrow:before { content: "\f10b"; }
+.appilo-v6-left-arrow:before { content: "\f10c"; }
