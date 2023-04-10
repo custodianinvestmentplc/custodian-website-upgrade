@@ -1,0 +1,46 @@
+
+---Downloaded files---
+The import files for: Appilo Pages were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://themexriver.com/appilo-theme/medical
+Data file = /home/customer/www/themexriver.com/public_html/appilo-theme/wp-content/uploads/sites/42/2021/12/demo-content-import-file_2021-12-15__08-29-56.xml
+Widget file = /home/customer/www/themexriver.com/public_html/appilo-theme/wp-content/uploads/sites/42/2021/12/demo-widgets-import-file_2021-12-15__08-29-56.json
+Customizer file = /home/customer/www/themexriver.com/public_html/appilo-theme/wp-content/uploads/sites/42/2021/12/demo-customizer-import-file_2021-12-15__08-29-56.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Default Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+
+Default Left Sidebar : 
+
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Topapp Blog Sidebar : 
+
+Search - No Title - Imported
+Categories - Category - Imported
+Tag Cloud - Tags - Imported
+Text - Subscribe - Imported
+Gallery - Gallery - Imported
+
+topapp-footer-widget : Sidebar does not exist in theme (moving widget to Inactive)
+
+topappabout_widget - No Title - Site does not support widget
+Navigation Menu - Quick Links - Imported to Inactive
+topappsubscribe_widget - No Title - Site does not support widget
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

@@ -1,0 +1,72 @@
+
+---Downloaded files---
+The import files for: Medical (NEW!) were successfully downloaded!
+Initial max execution time = 3000
+Files info:
+Site URL = https://idev.custodianplc.com.ng
+Data file = /home/idevcustodianplc/public_html/wp-content/uploads/2023/04/demo-content-import-file_2023-04-05__18-14-09.xml
+Widget file = /home/idevcustodianplc/public_html/wp-content/uploads/2023/04/demo-widgets-import-file_2023-04-05__18-14-09.json
+Customizer file = /home/idevcustodianplc/public_html/wp-content/uploads/2023/04/demo-customizer-import-file_2023-04-05__18-14-09.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Default Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+
+Default Left Sidebar : 
+
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Topapp Blog Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+Search - No Title - Imported
+Categories - Category - Imported
+Tag Cloud - Tags - Imported
+Text - Subscribe - Imported
+Gallery - Gallery - Imported
+
+medical_footer_widget : Sidebar does not exist in theme (moving widget to Inactive)
+
+mediaboutwidget_widget - No Title - Site does not support widget
+Navigation Menu - Centers of Excellence - Imported to Inactive
+medicalcontact_widget - No Title - Site does not support widget
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---ocdi/after_import---
+
